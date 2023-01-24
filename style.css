@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: bisque;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+pre {
+    background-color: white;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+}
